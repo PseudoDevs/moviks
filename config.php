@@ -8,16 +8,16 @@
 
 //URL PROJECT
  
-define ('_SITE_URL', 'YOUR_SITE_URL_HERE');
+define ('_SITE_URL', 'https://moviks.herokuapp.com/');
 
 //DATABASE CONFIGURATION 
 
 $database = array(
 
-'host' => "DB_HOST_HERE",
-'db' => "DB_NAME_HERE",
-'user' => "DB_USER_HERE",
-'pass' => "DB_PASSWORD_HERE"
+'host' => "34.122.76.93",
+'db' => "moviks",
+'user' => "root",
+'pass' => "toor"
 
 );
 
