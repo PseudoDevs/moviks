@@ -8,7 +8,7 @@
 
 //URL PROJECT
  
-define ('_SITE_URL', 'https://moviks.herokuapp.com/');
+define ('_SITE_URL', 'https://moviks.herokuapp.com');
 
 //DATABASE CONFIGURATION 
 
